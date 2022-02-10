@@ -1,0 +1,22 @@
+{
+  "name": "net-ninja-pro---the-book--practice-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osaro-tfk/Net-Ninja-Pro-the-Book-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Osaro-tfk/Net-Ninja-Pro-the-Book-Practice/issues"
+  },
+  "homepage": "https://github.com/Osaro-tfk/Net-Ninja-Pro-the-Book-Practice#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
